@@ -8,11 +8,11 @@
 stage=1
 stop_stage=2
 
-#ref_dir=$1
-#gen_dir=$2
+ref_dir=$1
+gen_dir=$2
 
-ref_dir='your test folder'
-gen_dir='the genereated samples'
+#ref_dir='your test folder'
+#gen_dir='the genereated samples'
 echo ${ref_dir}
 echo ${gen_dir}
 

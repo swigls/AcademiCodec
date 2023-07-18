@@ -1,3 +1,7 @@
 ckpt
 outputdir
-__pycache__
+**__pycache__
+**.wav
+**/checkpoint/
+**/output
+**/test_wav
