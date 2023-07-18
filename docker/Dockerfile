@@ -68,6 +68,9 @@ RUN pip install librosa
 
 # install matplotlib
 RUN pip install matplotlib
+
+# install pesq
+RUN pip install pesq
 # ENV PYTHONPATH /opt/icefall:$PYTHONPATH
 
 # ENTRYPOINT cd /opt/k2; \
